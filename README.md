@@ -10,7 +10,7 @@
 This project has been created using Autodesk Platform Services and React. The Autodesk Forge React Viewer is a React-based application that utilizes Autodesk Forge, a cloud development platform designed to create visualization and data management solutions for 3D design. 
 This viewer allows developers to integrate representations of 3D models, such as construction plans or product designs, into their web applications.
 
-<h1>React Viewer<h1>
+<h1>React Viewer
 
 
 React is an open-source JavaScript library for building user interfaces, especially for single-page web applications. 
