@@ -12,7 +12,7 @@ This viewer allows developers to integrate representations of 3D models, such as
 -React Viewer
 
 
-React is an open-source JavaScript library for building user interfaces, especially for single-page web applications. Developed by Facebook, it has become one of the most popular tools in front-end development.
+React is an open-source JavaScript library for building user interfaces, especially for single-page web applications. 
 
 -Available Scripts
 In the project directory, you can run the following commands:
